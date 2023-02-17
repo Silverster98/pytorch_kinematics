@@ -1,4 +1,4 @@
-This is a modified version directly copied from [GenDexGrasp](git@github.com:tengyu-liu/GenDexGrasp.git).
+This is a modified version directly copied from [GenDexGrasp](https://github.com/tengyu-liu/GenDexGrasp).
 
 ---
 Original [pytorch_kinematics](https://github.com/UM-ARM-Lab/pytorch_kinematics) repo. 
